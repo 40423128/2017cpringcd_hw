@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Fall 電腦輔助設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-04-01T12:08:00+08:00</updated><entry><title>協同產品設計實習 第六週作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-liu-zhou-zuo-ye.html" rel="alternate"></link><published>2017-04-01T12:08:00+08:00</published><updated>2017-04-01T12:08:00+08:00</updated><author><name>40423128</name></author><id>tag:,2017-04-01:./xie-tong-chan-pin-she-ji-shi-xi-di-liu-zhou-zuo-ye.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Fall 電腦輔助設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-04-01T12:08:00+08:00</updated><entry><title>協同產品設計實習 第六週作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-liu-zhou-zuo-ye.html" rel="alternate"></link><published>2017-04-01T12:08:00+08:00</published><updated>2017-04-01T12:08:00+08:00</updated><author><name>40423128</name></author><id>tag:,2017-04-01:./xie-tong-chan-pin-she-ji-shi-xi-di-liu-zhou-zuo-ye.html</id><summary type="html">&lt;p&gt;1.利用onshape畫出四連桿以及八連桿&lt;/p&gt;
+&lt;p&gt;2.將畫好的零件利用v-rep做連桿動作模擬&lt;/p&gt;
+
 
 &lt;h2&gt;1.利用onshape畫出四連桿以及八連桿&lt;/h2&gt;
 &lt;h2&gt;2.將畫好的零件利用v-rep做連桿動作模擬&lt;/h2&gt;
@@ -21,17 +23,22 @@
 
 &lt;h2&gt;利用v-rep動作模擬&lt;/h2&gt;
 &lt;p&gt;四連桿動作模擬&lt;/p&gt;
-&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/eLmBwPT2byk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/PU94ZFWIkY4" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;八連桿動作模擬
-&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/In2eRi1z6to" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;八連桿動作模擬&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/mc0GNHmGfmo" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
 &lt;h1&gt;心得&lt;/h1&gt;
-&lt;p&gt;&lt;p&gt;在繪製八連桿及組合的時候花了不少的時間,利用v-rep做動作模擬時也花了一番功夫才弄好,最困難的部份我覺得是八連桿在調整各個桿件中的位置,一個調整不好可能會讓桿件整個失靈.&lt;/p&gt;&lt;/p&gt;</summary><category term="HW"></category></entry><entry><title>協同產品設計實習 第五週作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-wu-zhou-zuo-ye.html" rel="alternate"></link><published>2017-03-24T12:08:00+08:00</published><updated>2017-03-24T12:08:00+08:00</updated><author><name>40423128</name></author><id>tag:,2017-03-24:./xie-tong-chan-pin-she-ji-shi-xi-di-wu-zhou-zuo-ye.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;&lt;p&gt;在繪製八連桿及組合的時候花了不少的時間,利用v-rep做動作模擬時也花了一番功夫才弄好,最困難的部份我覺得是八連桿在調整各個桿件中的位置,一個調整不好可能會讓桿件整個失靈.&lt;/p&gt;&lt;/p&gt;</summary><category term="HW"></category></entry><entry><title>協同產品設計實習 第五週作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-wu-zhou-zuo-ye.html" rel="alternate"></link><published>2017-03-24T12:08:00+08:00</published><updated>2017-03-24T12:08:00+08:00</updated><author><name>40423128</name></author><id>tag:,2017-03-24:./xie-tong-chan-pin-she-ji-shi-xi-di-wu-zhou-zuo-ye.html</id><summary type="html">&lt;p&gt;利用v-rep設定單連桿運動
+v-rep設定單連桿運動影片&lt;/p&gt;
+
 
 &lt;h2&gt;1. 利用v-rep設定單連桿運動&lt;/h2&gt;
 &lt;h1&gt;v-rep設定單連桿運動影片&lt;/h1&gt;
 &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/8TD1wevqGVY" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;h1&gt;心得:這週將上週的單連桿轉入V-rep 做動作模擬,一開始覺得很沒有頭緒,後來看完教學影片後操作就沒問題了.&lt;/h1&gt;</summary><category term="HW"></category></entry><entry><title>協同產品設計實習 第四週作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-si-zhou-zuo-ye.html" rel="alternate"></link><published>2017-03-19T12:08:00+08:00</published><updated>2017-03-19T12:08:00+08:00</updated><author><name>40423128</name></author><id>tag:,2017-03-19:./xie-tong-chan-pin-she-ji-shi-xi-di-si-zhou-zuo-ye.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;h1&gt;心得:這週將上週的單連桿轉入V-rep 做動作模擬,一開始覺得很沒有頭緒,後來看完教學影片後操作就沒問題了.&lt;/h1&gt;</summary><category term="HW"></category></entry><entry><title>協同產品設計實習 第四週作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-si-zhou-zuo-ye.html" rel="alternate"></link><published>2017-03-19T12:08:00+08:00</published><updated>2017-03-19T12:08:00+08:00</updated><author><name>40423128</name></author><id>tag:,2017-03-19:./xie-tong-chan-pin-she-ji-shi-xi-di-si-zhou-zuo-ye.html</id><summary type="html">&lt;p&gt;1.利用網誌與簡報說明安裝或使用 Hyperworks 套件過程與心得 - 課程結束前, 希望能夠使用 Hyperworks 進行連桿機構零件的應力分析與機構運動模擬&lt;/p&gt;
+&lt;p&gt;2.平面四連桿機構的運動路徑方程式推導與網際 2D 繪圖, 方程式推導以 sympy 完成, 而 2D 繪圖則以 Brython 在各組網誌中完成. 先了解如何推導四連桿機構的運動方程式, 然後在各組網誌中完成靜態繪圖與動態模擬.&lt;/p&gt;
+
 
 &lt;h1&gt;第四週作業&lt;/h1&gt;
 &lt;p&gt;&lt;P&gt; 1. 利用網誌與簡報說明安裝或使用 Hyperworks 套件過程與心得 - 課程結束前, 希望能夠使用 Hyperworks 進行連桿機構零件的應力分析與機構運動模擬.&lt;/P&gt;
@@ -394,7 +401,8 @@ cgo.playAnimation()
 &lt;p&gt;導入v-rep&lt;/p&gt;
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/pwDdIKSulhQ" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;section&gt;</summary><category term="HW"></category></entry><entry><title>協同產品設計實習 第三週作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-san-zhou-zuo-ye.html" rel="alternate"></link><published>2017-03-12T12:08:00+08:00</published><updated>2017-03-12T12:08:00+08:00</updated><author><name>40423128</name></author><id>tag:,2017-03-12:./xie-tong-chan-pin-she-ji-shi-xi-di-san-zhou-zuo-ye.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;section&gt;</summary><category term="HW"></category></entry><entry><title>協同產品設計實習 第三週作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-san-zhou-zuo-ye.html" rel="alternate"></link><published>2017-03-12T12:08:00+08:00</published><updated>2017-03-12T12:08:00+08:00</updated><author><name>40423128</name></author><id>tag:,2017-03-12:./xie-tong-chan-pin-she-ji-shi-xi-di-san-zhou-zuo-ye.html</id><summary type="html">&lt;p&gt;翻譯HyperWorks官方影片(1.2)  利用solvespace 和 onshape組立及用v-rep3模擬動畫   Solvespace 輸入三角形頂點運動軌跡&lt;/p&gt;
+
 
 &lt;h1&gt;翻譯HyperWorks官方影片(1.2)  利用solvespace 和 onshape組立及用v-rep3模擬動畫   Solvespace 輸入三角形頂點運動軌跡&lt;/h1&gt;
 &lt;h2&gt;翻譯影片(1)&lt;/h2&gt;
@@ -551,7 +559,8 @@ we have a great technology here and we can work with clients to improve the tech
 &lt;h2&gt;四連桿機構的運動模擬&lt;/h2&gt;
 &lt;p&gt;補&lt;/p&gt;
 &lt;h1&gt;作業心得&lt;/h1&gt;
-&lt;p&gt;本週翻譯了HyperWorks讓我們認識了這個軟體 及目前機構模擬的趨勢 &lt;/p&gt;</summary><category term="HW"></category></entry><entry><title>協同產品設計實習 第二週作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-er-zhou-zuo-ye.html" rel="alternate"></link><published>2017-03-04T12:08:00+08:00</published><updated>2017-03-04T12:08:00+08:00</updated><author><name>40423128</name></author><id>tag:,2017-03-04:./xie-tong-chan-pin-she-ji-shi-xi-di-er-zhou-zuo-ye.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;本週翻譯了HyperWorks讓我們認識了這個軟體 及目前機構模擬的趨勢 &lt;/p&gt;</summary><category term="HW"></category></entry><entry><title>協同產品設計實習 第二週作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-er-zhou-zuo-ye.html" rel="alternate"></link><published>2017-03-04T12:08:00+08:00</published><updated>2017-03-04T12:08:00+08:00</updated><author><name>40423128</name></author><id>tag:,2017-03-04:./xie-tong-chan-pin-she-ji-shi-xi-di-er-zhou-zuo-ye.html</id><summary type="html">&lt;p&gt;更改stunnel設定檔ip位址 ，利用上星期四連桿solvespace組立及v-rep應用&lt;/p&gt;
+
 
 &lt;h1&gt;更改stunnel設定檔ip位址 ，利用上星期四連桿solvespace組立及v-rep應用&lt;/h1&gt;
 &lt;h2&gt;solvespace組裝影片&lt;/h2&gt;
@@ -567,7 +576,8 @@ we have a great technology here and we can work with clients to improve the tech
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/S79nyBXpbJQ" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;h1&gt;作業心得&lt;/h1&gt;
-&lt;p&gt;繼上次製作四連桿這次增加了v-rep,將畫好的圖轉成stl格式,匯入v-rep,製作動畫&lt;/p&gt;</summary><category term="HW"></category></entry><entry><title>協同產品設計實習 第一週作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-yi-zhou-zuo-ye.html" rel="alternate"></link><published>2017-02-26T12:08:00+08:00</published><updated>2017-02-26T12:08:00+08:00</updated><author><name>40423128</name></author><id>tag:,2017-02-26:./xie-tong-chan-pin-she-ji-shi-xi-di-yi-zhou-zuo-ye.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;繼上次製作四連桿這次增加了v-rep,將畫好的圖轉成stl格式,匯入v-rep,製作動畫&lt;/p&gt;</summary><category term="HW"></category></entry><entry><title>協同產品設計實習 第一週作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-yi-zhou-zuo-ye.html" rel="alternate"></link><published>2017-02-26T12:08:00+08:00</published><updated>2017-02-26T12:08:00+08:00</updated><author><name>40423128</name></author><id>tag:,2017-02-26:./xie-tong-chan-pin-she-ji-shi-xi-di-yi-zhou-zuo-ye.html</id><summary type="html">&lt;p&gt;利用solvespace及onshape組裝四連桿機構，介紹課程內容&lt;/p&gt;
+
 
 &lt;h1&gt;利用solvespace及onshape組裝四連桿機構，介紹課程內容&lt;/h1&gt;
 &lt;h2&gt;solvespace組裝影片&lt;/h2&gt;
